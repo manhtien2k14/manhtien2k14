@@ -103,14 +103,20 @@ Xin chào! Đây là trang README chính thức của **Zrack** — dev Gen Alph
 ---
 
 ## ⏰ Weekly Development Breakdown
-
+### Programming language
+```txt 
+Python      : ██████░░░░░░░░░░░░░░ - 30%
+Typescript  : ██████████████░░░░░░ - 70%
+Javascript  : ████░░░░░░░░░░░░░░░░ - 20%
+Tailwind    : ████████░░░░░░░░░░░░ - 40%
+Markdown    : █░░░░░░░░░░░░░░░░░░░ - 5%
+C/C++       : ███████░░░░░░░░░░░░░ - 35%
+```
+### Operating system
 ```txt
-Python      : 30%
-Typescript  : 70%
-Javascript  : 20%
-Tailwind    : 40%
-Markdown    : 5%
-C/C++       : 35%
+Windows 11  : ███████████░░░░░░░░░ - 55 %
+Windows 10  : █░░░░░░░░░░░░░░░░░░░ - 5 %
+Linux       : ████████░░░░░░░░░░░░ - 40 %
 ```
 
 ---
