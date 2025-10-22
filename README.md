@@ -85,21 +85,20 @@ Xin chào! Đây là trang README chính thức của **Zrack** — dev Gen Alph
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manhtien2k14&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manhtien2k14&theme=dark" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhtien2k14&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=manhtien2k14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=manhtien2k14&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=manhtien2k14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=manhtien2k14&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=manhtien2k14&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=manhtien2k14&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 ---
 
